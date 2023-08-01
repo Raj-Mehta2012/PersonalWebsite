@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import Particle from "../Particle";
 
 import Skydiving from '../../Assets/ImgGallery/skydiving.jpg';
 import Scuba from '../../Assets/ImgGallery/scuba.jpg';

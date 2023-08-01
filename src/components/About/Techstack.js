@@ -23,7 +23,7 @@ import {
 } from "react-icons/si";
 
 
-import { TbBrandGolang , TbBrandThreejs,} from "react-icons/tb";
+import {TbBrandThreejs,} from "react-icons/tb";
 
 function Techstack() {
   return (
