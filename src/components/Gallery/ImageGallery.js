@@ -20,7 +20,7 @@ import Vegas from '../../Assets/ImgGallery/vegas.jpg';
 
 const ImageGallery = () => {
   // Replace 'ImgGallery' with the actual folder name inside 'Assets'
-  const imageFolder = 'ImgGallery';
+  // const imageFolder = 'ImgGallery';
 
   // Replace this array with objects containing image details (filename, description, and location)
   const images = [
