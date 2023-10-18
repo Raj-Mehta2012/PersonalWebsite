@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={Eventide}
               isBlog={true}
-              title="Data and Python Enginner - Eventide Communications"
+              title="Data and Python Enginner"
               description="Collaborated with cross-functional teams to extract, transform, and analyze large datasets using Python, JS(AMCharts5),and HTML-CSS to develop reports and live-dashboards for live 911 call data to effectively communicate insights to clients. Developed Bash scripts to meticulously export, securely backup, and seamlessly migrate critical Posgtres data from client systemsto Eventide recorders, enhancing operational efficiency and elevating customer satisfaction"
               // ghLink="https://www.eventidecommunications.com/"
             />
@@ -46,7 +46,7 @@ function Projects() {
             <ProjectCard
               imgPath={Shaw}
               isBlog={true}
-              title="QA and Automation Engineer - D.E. Shaw"
+              title="QA and Automation Engineer"
               description="Translated new website and API enhancements into Cypress.io-based test scenarios, collaborating with project stakeholders toidentify regression areas, resulting in a 10% increase in overall system readiness and improved deployment efficiency. Proposed and successfully implemented an automated bug monitoring system leveraging Selenium WebDriver, enabling issuedetection in the development cycle, resulting in a remarkable 20% reduction in defects reported post-QA reviews. Successfully orchestrated defect logging and categorization through Python, adeptly crafted and executed automation scripts forjob monitoring using Cypress.io, resulting in a noteworthy 5% increase in defect pinpointing efficiency."
               // ghLink="https://www.deshaw.com/"
             />
@@ -56,7 +56,7 @@ function Projects() {
             <ProjectCard
               imgPath={Dronology}
               isBlog={true}
-              title="AI/ML Engineer - Dronology"
+              title="AI/ML Engineer"
               description="Enhanced communication reliability with drones and devices through the implementation of MQTT architecture for subscriptionand publication, resulting in a remarkable reduction of response time from 10ms to an impressive 2ms. Conducted rigorous safety testing in Java utilizing mutation testing on UAV flight plans, validating the effectiveness of thesafety algorithm. Achieved an impressive throughput of 1500 test case checks, ensuring robust and reliable UAV operations. Contributed research by publishing papers in esteemed venues such as the International Journal on Software Engineering (JSS,October 2022) and the International Conference on Communications (ICCPS, December 2021), showcasing innovativefindings and advancing the collective knowledge in the UAVs safety-algorithm domain"
               // ghLink="https://dronology.info/"           
             />
